@@ -1,0 +1,33 @@
+title;y_label;binning;range;feature
+???;Entries;50;(0,250);default
+Dilepton flavor;Entries;4;(-2.5,2.5);dilepton_type
+Dilepton flavor;Entries;4;(-2.5,2.5);dilepton_type_debug
+pt(GeV);Entries/5GeV;50;(0,250);default_pt
+$M_{ll}$(GeV);Entries/8GeV;50;(80,100);mll
+Lead lep pt(GeV);Entries/5GeV;40;(0,100);lep1_pt
+Sub lep pt(GeV);Entries/5GeV;40;(0,100);lep2_pt
+Lead jet pt(GeV);Entries/5GeV;50;(0,250);jet1_pt
+Sub jet pt(GeV);Entries/5GeV;50;(0,250);jet2_pt
+Number of Primary Vertices;Entries;61;(-0.5, 60.5);npv
+MET over Sum ET;Entries/5GeV;50;(0,10);met_over_sET
+$M_{ll MET}$(GeV);Entries/5GeV;50;(50,800);mllmet
+MET(GeV);Entries/5GeV;40;(0,100);met
+Number of Jets;Entries;10;(-0.5, 9.5);numb_jets
+Number of B-Jets;Entries;10;(-0.5, 9.5);numb_bjets
+$\Delta \phi_{\ell \ell}$;Entries;50;(0,4);dPhill
+???(GeV);Entries/5GeV;50;(0,250);default_met
+???;Entries;50;(-5,5);default_eta
+???;Entries;50;(-4,4);default_phi
+???;Entries;50;(0,4);default_dphi
+???;Entries;10;(-0.5,9.5);default_numb
+Drell Yan Random Forest score;Entries;50;(0,1.1);pred_fDY_WW
+Top Random Forest score;Entries;50;(0,1.1);pred_fTT_WW
+
+
+
+
+
+
+
+
+
